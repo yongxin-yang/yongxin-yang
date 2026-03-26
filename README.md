@@ -13,7 +13,9 @@
 - 🔭 I’m currently studying at Shandong University.
 - 🌱 I’m currently learning coding, AI, and algorithms.
 - 🎹 I’m good at playing the piano.
-- 🎮 I’m fascinated by certain kinds of games, politics, specific periods of history, and skits.
+- 🎮 I was used to fascinated by certain kinds of games, politics, specific periods of history, and skits.
+- 🎮 I’m being fascinated by psychology, music, talkshow, art of conversation and ?(remaining to explore)
+- 🎮 I’m not being interested to all kinds of games, Intense physical exercise(export table tennis,bad mentin...),politics 
 - 👯 I’m looking to collaborate on AI algorithm projects.
 - 🤔 I’m looking for help with (you can fill this in: e.g., deep learning frameworks, data processing, etc.)
 - 💬 Ask me about AI, coding, or technology.
